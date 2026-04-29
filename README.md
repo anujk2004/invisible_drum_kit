@@ -1,0 +1,1 @@
+An air-drumming system that uses an ESP32 and an MPU-6050 to map physical orientations to drum hits on a computer. By pointing the "drumstick" (ESP32) in different directions and triggering specific orientations, the Python script simulates keypresses compatible with online drum machines like Musicca.
